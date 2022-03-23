@@ -1,16 +1,13 @@
-# infinite_scroll
+# ImageListView
 
-A new Flutter project.
+A Flutter project to list the images
 
-## Getting Started
+prerequisites to run the app
+* Flutter
+* Android studio
+* Android emulator or a mobile
+* VS code
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Steps to run the app
+* Initially run "flutter pub get" to get all the dependencies
+* And then run the app with or without debugging
